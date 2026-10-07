@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Hello, world!
-=======
->>>>>>> 5fd92cfa1c1132c188c624a1f4d1fbdd2e4d45a2
 こんにちは、世界！
